@@ -1,4 +1,4 @@
-package com.tdevilleduc.urthehero.kafka;
+package com.tdevilleduc.urthehero;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
