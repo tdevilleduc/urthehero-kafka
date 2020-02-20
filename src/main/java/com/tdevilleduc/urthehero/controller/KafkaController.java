@@ -1,6 +1,6 @@
-package com.tdevilleduc.urthehero.kafka.controller;
+package com.tdevilleduc.urthehero.controller;
 
-import com.tdevilleduc.urthehero.kafka.kafka.KafkaProducer;
+import com.tdevilleduc.urthehero.kafka.KafkaProducer;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
